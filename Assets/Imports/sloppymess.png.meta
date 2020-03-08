@@ -1,0 +1,2275 @@
+fileFormatVersion: 2
+guid: 79b548208fbe7a3469bb80ca210e614f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8137230419613941074
+    second: sloppymess_0
+  - first:
+      213: 4974110660635959346
+    second: sloppymess_1
+  - first:
+      213: -7235982747611169759
+    second: sloppymess_2
+  - first:
+      213: -1071325658822659358
+    second: sloppymess_3
+  - first:
+      213: 5955422432069937740
+    second: sloppymess_4
+  - first:
+      213: 2817562191900762107
+    second: sloppymess_5
+  - first:
+      213: -4008586409878977265
+    second: sloppymess_6
+  - first:
+      213: -7840755983755641017
+    second: sloppymess_7
+  - first:
+      213: 3120245035744828404
+    second: sloppymess_8
+  - first:
+      213: 1532933202101226130
+    second: sloppymess_9
+  - first:
+      213: 3648955894448180220
+    second: sloppymess_10
+  - first:
+      213: -3899802092172542574
+    second: sloppymess_11
+  - first:
+      213: -3598946515668829843
+    second: sloppymess_12
+  - first:
+      213: 1592811863801254412
+    second: sloppymess_13
+  - first:
+      213: 7335986854870536626
+    second: sloppymess_14
+  - first:
+      213: 3896137361950487371
+    second: sloppymess_15
+  - first:
+      213: 8716371860543208621
+    second: sloppymess_16
+  - first:
+      213: 7031248964281969503
+    second: sloppymess_17
+  - first:
+      213: -4155250093799170595
+    second: sloppymess_18
+  - first:
+      213: 2318109274067529362
+    second: sloppymess_19
+  - first:
+      213: 8751896860534742900
+    second: sloppymess_20
+  - first:
+      213: -988225771335106220
+    second: sloppymess_21
+  - first:
+      213: -5535449672663593581
+    second: sloppymess_22
+  - first:
+      213: 4579693510854664589
+    second: sloppymess_23
+  - first:
+      213: 3951142281563471347
+    second: sloppymess_24
+  - first:
+      213: 842438769652101007
+    second: sloppymess_25
+  - first:
+      213: 3770067762348306370
+    second: sloppymess_26
+  - first:
+      213: -5140274658170651347
+    second: sloppymess_27
+  - first:
+      213: -3540130650776035936
+    second: sloppymess_28
+  - first:
+      213: -8092470999708154248
+    second: sloppymess_29
+  - first:
+      213: -8171075739203309874
+    second: sloppymess_30
+  - first:
+      213: -8627300737599663589
+    second: sloppymess_31
+  - first:
+      213: -6893248484193533871
+    second: sloppymess_32
+  - first:
+      213: 1401986054992747765
+    second: sloppymess_33
+  - first:
+      213: 2382520069162307044
+    second: sloppymess_34
+  - first:
+      213: 7327421286341139438
+    second: sloppymess_35
+  - first:
+      213: 555931115405826814
+    second: sloppymess_36
+  - first:
+      213: -8132208446521464902
+    second: sloppymess_37
+  - first:
+      213: 7814060187922103981
+    second: sloppymess_38
+  - first:
+      213: 4015349685571127179
+    second: sloppymess_39
+  - first:
+      213: 4731937338821595153
+    second: sloppymess_40
+  - first:
+      213: -8389258190056631735
+    second: sloppymess_41
+  - first:
+      213: 4011282990266379989
+    second: sloppymess_42
+  - first:
+      213: 5510553503437420581
+    second: sloppymess_43
+  - first:
+      213: 6401625507176677404
+    second: sloppymess_44
+  - first:
+      213: 4954274445164996541
+    second: sloppymess_45
+  - first:
+      213: -2295600522840733955
+    second: sloppymess_46
+  - first:
+      213: 2410100970953612278
+    second: sloppymess_47
+  - first:
+      213: -8023955066494395718
+    second: sloppymess_48
+  - first:
+      213: 5494181117402660172
+    second: sloppymess_49
+  - first:
+      213: -7209431197226599288
+    second: sloppymess_50
+  - first:
+      213: 903148713382389465
+    second: sloppymess_51
+  - first:
+      213: -308372397986794428
+    second: sloppymess_52
+  - first:
+      213: 3493074531742453491
+    second: sloppymess_53
+  - first:
+      213: 6630664770406701685
+    second: sloppymess_54
+  - first:
+      213: -6232942861678399902
+    second: sloppymess_55
+  - first:
+      213: -6082147348714114285
+    second: sloppymess_56
+  - first:
+      213: -1375033555445285108
+    second: sloppymess_57
+  - first:
+      213: 6152441100662934991
+    second: sloppymess_58
+  - first:
+      213: -390146364281097983
+    second: sloppymess_59
+  - first:
+      213: -5732438148515215915
+    second: sloppymess_60
+  - first:
+      213: -1069965365046938138
+    second: sloppymess_61
+  - first:
+      213: -6945229541485654565
+    second: sloppymess_62
+  - first:
+      213: 3084502939446369374
+    second: sloppymess_63
+  - first:
+      213: 7583582073370213356
+    second: sloppymess_64
+  - first:
+      213: 6950139502675505120
+    second: sloppymess_65
+  - first:
+      213: -6694789521568703423
+    second: sloppymess_66
+  - first:
+      213: -3651637026401463322
+    second: sloppymess_67
+  - first:
+      213: -4561544465639529923
+    second: sloppymess_68
+  - first:
+      213: -6248200543272645885
+    second: sloppymess_69
+  - first:
+      213: -350454869281685842
+    second: sloppymess_70
+  - first:
+      213: 5593830488100738810
+    second: sloppymess_71
+  - first:
+      213: -7546891104600766194
+    second: sloppymess_72
+  - first:
+      213: 702843612822032953
+    second: sloppymess_73
+  - first:
+      213: -7726408967125655582
+    second: sloppymess_74
+  - first:
+      213: 3295988228240579061
+    second: sloppymess_75
+  - first:
+      213: 7150490709043743132
+    second: sloppymess_76
+  - first:
+      213: -2791751712040993480
+    second: sloppymess_77
+  - first:
+      213: 7474652844984443209
+    second: sloppymess_78
+  - first:
+      213: 2678393400934805191
+    second: sloppymess_79
+  - first:
+      213: 5282636279720668280
+    second: sloppymess_80
+  - first:
+      213: 4881277658681605787
+    second: sloppymess_81
+  - first:
+      213: -482370885704651784
+    second: sloppymess_82
+  - first:
+      213: 7963623178826307174
+    second: sloppymess_83
+  - first:
+      213: 7832422015961865699
+    second: sloppymess_84
+  - first:
+      213: -242875227654832569
+    second: sloppymess_85
+  - first:
+      213: -8778030783873714278
+    second: sloppymess_86
+  - first:
+      213: -2884085307621965281
+    second: sloppymess_87
+  - first:
+      213: -6769612182492594894
+    second: sloppymess_88
+  - first:
+      213: 6245958451688328856
+    second: sloppymess_89
+  - first:
+      213: -5125584384633432052
+    second: sloppymess_90
+  - first:
+      213: -8642674405485600416
+    second: sloppymess_91
+  - first:
+      213: 11836038300598400
+    second: sloppymess_92
+  - first:
+      213: -125295651832015027
+    second: sloppymess_93
+  - first:
+      213: 1735135336166898196
+    second: sloppymess_94
+  - first:
+      213: 8014806548928649712
+    second: sloppymess_95
+  - first:
+      213: 969924094802702878
+    second: sloppymess_96
+  - first:
+      213: -1122738080130789375
+    second: sloppymess_97
+  - first:
+      213: -2676223469419480902
+    second: sloppymess_98
+  - first:
+      213: 6648345793194734583
+    second: sloppymess_99
+  - first:
+      213: 5601869761017163781
+    second: sloppymess_100
+  - first:
+      213: -4471242542756214031
+    second: sloppymess_101
+  - first:
+      213: 224004851044877619
+    second: sloppymess_102
+  - first:
+      213: 5616181920473344528
+    second: sloppymess_103
+  - first:
+      213: -3067070906539034421
+    second: sloppymess_104
+  - first:
+      213: 8091702338903328510
+    second: sloppymess_105
+  - first:
+      213: -5896979760691220284
+    second: sloppymess_106
+  - first:
+      213: 2625220839093430290
+    second: sloppymess_107
+  - first:
+      213: 6343367222673256929
+    second: sloppymess_108
+  - first:
+      213: 445935459210552826
+    second: sloppymess_109
+  - first:
+      213: 2343969600287572954
+    second: sloppymess_110
+  - first:
+      213: 5513119609478858535
+    second: sloppymess_111
+  - first:
+      213: 2266948484554478418
+    second: sloppymess_112
+  - first:
+      213: -6097047907970587915
+    second: sloppymess_113
+  - first:
+      213: -165677008641730586
+    second: sloppymess_114
+  - first:
+      213: -899142124296320752
+    second: sloppymess_115
+  - first:
+      213: 339606314064472834
+    second: sloppymess_116
+  - first:
+      213: 7372618335164933646
+    second: sloppymess_117
+  - first:
+      213: -6696007552356642701
+    second: sloppymess_118
+  - first:
+      213: 3074582447161945854
+    second: sloppymess_119
+  - first:
+      213: 1325236407544075136
+    second: sloppymess_120
+  - first:
+      213: -3500839450376511441
+    second: sloppymess_121
+  - first:
+      213: 1332462129232407992
+    second: sloppymess_122
+  - first:
+      213: -1165680474844949071
+    second: sloppymess_123
+  - first:
+      213: 7791797375292972950
+    second: sloppymess_124
+  - first:
+      213: -2970856301343556852
+    second: sloppymess_125
+  - first:
+      213: -1698724017252184004
+    second: sloppymess_126
+  - first:
+      213: -7164309156390971184
+    second: sloppymess_127
+  - first:
+      213: -7298907948265109984
+    second: sloppymess_128
+  - first:
+      213: -5190370844555993844
+    second: sloppymess_129
+  - first:
+      213: 7191817043189107051
+    second: sloppymess_130
+  - first:
+      213: -6631043768292550866
+    second: sloppymess_131
+  - first:
+      213: -2156877158652392434
+    second: sloppymess_132
+  - first:
+      213: 4976650357027776236
+    second: sloppymess_133
+  - first:
+      213: -6254667314097506229
+    second: sloppymess_134
+  - first:
+      213: -2732017714302139741
+    second: sloppymess_135
+  - first:
+      213: 4882503870895194375
+    second: sloppymess_136
+  - first:
+      213: -7517014890470089358
+    second: sloppymess_137
+  - first:
+      213: -82923694073604622
+    second: sloppymess_138
+  - first:
+      213: 6668401190330595440
+    second: sloppymess_139
+  - first:
+      213: 6268246795202091434
+    second: sloppymess_140
+  - first:
+      213: 3692971223595405316
+    second: sloppymess_141
+  - first:
+      213: 95633335445027226
+    second: sloppymess_142
+  - first:
+      213: -7239689343089031212
+    second: sloppymess_143
+  - first:
+      213: -6983081389117406631
+    second: sloppymess_144
+  - first:
+      213: 2331941613709374071
+    second: sloppymess_145
+  - first:
+      213: 4340058517995132390
+    second: sloppymess_146
+  - first:
+      213: 6145494243592947110
+    second: sloppymess_147
+  - first:
+      213: 9064619228317432925
+    second: sloppymess_148
+  - first:
+      213: 8447894286387863188
+    second: sloppymess_149
+  - first:
+      213: -8110703774489794206
+    second: sloppymess_150
+  - first:
+      213: 6447257298111910118
+    second: sloppymess_151
+  - first:
+      213: 5323906961219665196
+    second: sloppymess_152
+  - first:
+      213: -7885882624379572125
+    second: sloppymess_153
+  - first:
+      213: 5213950936328598541
+    second: sloppymess_154
+  - first:
+      213: -7557573670923020038
+    second: sloppymess_155
+  - first:
+      213: -4454770284275707414
+    second: sloppymess_156
+  - first:
+      213: -8792461246313553049
+    second: sloppymess_157
+  - first:
+      213: -4814755820447016403
+    second: sloppymess_158
+  - first:
+      213: -9152354087507062501
+    second: sloppymess_159
+  - first:
+      213: -4298498410034906697
+    second: sloppymess_160
+  - first:
+      213: -5556000564407485505
+    second: sloppymess_161
+  - first:
+      213: 8355931744574909771
+    second: sloppymess_162
+  - first:
+      213: -4701903991072463025
+    second: sloppymess_163
+  - first:
+      213: 2313372760016727935
+    second: sloppymess_164
+  - first:
+      213: 3158851775632113431
+    second: sloppymess_165
+  - first:
+      213: -8358094090426179995
+    second: sloppymess_166
+  - first:
+      213: -887299370109381948
+    second: sloppymess_167
+  - first:
+      213: 7219079745125765635
+    second: sloppymess_168
+  - first:
+      213: 1321495408701848692
+    second: sloppymess_169
+  - first:
+      213: 3664634856340643138
+    second: sloppymess_170
+  - first:
+      213: -4307256134799580083
+    second: sloppymess_171
+  - first:
+      213: 3447376736364638219
+    second: sloppymess_172
+  - first:
+      213: 8431785748537501758
+    second: sloppymess_173
+  - first:
+      213: -558963723157214746
+    second: sloppymess_174
+  - first:
+      213: -8744426783463939881
+    second: sloppymess_175
+  - first:
+      213: 7995953062117752250
+    second: sloppymess_176
+  - first:
+      213: -3033332604608737531
+    second: sloppymess_177
+  - first:
+      213: -2725701109166321811
+    second: sloppymess_178
+  - first:
+      213: -951103983408789969
+    second: sloppymess_179
+  - first:
+      213: 8232141012775989338
+    second: sloppymess_180
+  - first:
+      213: 7047088397932120447
+    second: sloppymess_181
+  - first:
+      213: -4300533452853892479
+    second: sloppymess_182
+  - first:
+      213: -8029860057631974060
+    second: sloppymess_183
+  - first:
+      213: -6968429390201946506
+    second: sloppymess_184
+  - first:
+      213: 7974892029925990509
+    second: sloppymess_185
+  - first:
+      213: 6940124290649496355
+    second: sloppymess_186
+  - first:
+      213: 8579931414543331449
+    second: sloppymess_187
+  - first:
+      213: -8500222245030193500
+    second: sloppymess_188
+  - first:
+      213: -2829011636844976538
+    second: sloppymess_189
+  - first:
+      213: 640630807552105819
+    second: sloppymess_190
+  - first:
+      213: 5404880124609076934
+    second: sloppymess_191
+  - first:
+      213: 4274670222924477260
+    second: sloppymess_192
+  - first:
+      213: 517397339530628876
+    second: sloppymess_193
+  - first:
+      213: 8651765208668582700
+    second: sloppymess_194
+  - first:
+      213: -7741653082561804609
+    second: sloppymess_195
+  - first:
+      213: 7101502731658715159
+    second: sloppymess_196
+  - first:
+      213: 1804881586889037066
+    second: sloppymess_197
+  - first:
+      213: -1906415074104452323
+    second: sloppymess_198
+  - first:
+      213: -57922110455736826
+    second: sloppymess_199
+  - first:
+      213: 3665607986984041372
+    second: sloppymess_200
+  - first:
+      213: -6727530245341272249
+    second: sloppymess_201
+  - first:
+      213: -4169308288849297286
+    second: sloppymess_202
+  - first:
+      213: 3100920247418611968
+    second: sloppymess_203
+  - first:
+      213: -2340985190536744085
+    second: sloppymess_204
+  - first:
+      213: -5334141406819366912
+    second: sloppymess_205
+  - first:
+      213: 1504524711018750721
+    second: sloppymess_206
+  - first:
+      213: -6684007750216970343
+    second: sloppymess_207
+  - first:
+      213: 6203293236247894963
+    second: sloppymess_208
+  - first:
+      213: 183975615365637218
+    second: sloppymess_209
+  - first:
+      213: 8292308530488130086
+    second: sloppymess_210
+  - first:
+      213: -3003161318615560351
+    second: sloppymess_211
+  - first:
+      213: 5404551244740216546
+    second: sloppymess_212
+  - first:
+      213: -3836962192002461042
+    second: sloppymess_213
+  - first:
+      213: -7790007598359700284
+    second: sloppymess_214
+  - first:
+      213: -5544435852202776340
+    second: sloppymess_215
+  - first:
+      213: 6876788483189517233
+    second: sloppymess_216
+  - first:
+      213: 163011703648367766
+    second: sloppymess_217
+  - first:
+      213: -8146215828985045085
+    second: sloppymess_218
+  - first:
+      213: -4452075979253859974
+    second: sloppymess_219
+  - first:
+      213: 3726159953086544796
+    second: sloppymess_220
+  - first:
+      213: -4675460480358254823
+    second: sloppymess_221
+  - first:
+      213: -2351428766912824015
+    second: sloppymess_222
+  - first:
+      213: -9095793699340066530
+    second: sloppymess_223
+  - first:
+      213: 6712098904547235681
+    second: sloppymess_224
+  - first:
+      213: -471653692210190037
+    second: sloppymess_225
+  - first:
+      213: 5052689758972273580
+    second: sloppymess_226
+  - first:
+      213: -5634622258204530476
+    second: sloppymess_227
+  - first:
+      213: -883509710648437822
+    second: sloppymess_228
+  - first:
+      213: -1880440185456065844
+    second: sloppymess_229
+  - first:
+      213: 8666105336501209483
+    second: sloppymess_230
+  - first:
+      213: -1794544322546354202
+    second: sloppymess_231
+  - first:
+      213: -2131182216480309850
+    second: sloppymess_232
+  - first:
+      213: 2104352435707756281
+    second: sloppymess_233
+  - first:
+      213: -7820043386623157038
+    second: sloppymess_234
+  - first:
+      213: 8812773987806441542
+    second: sloppymess_235
+  - first:
+      213: 9060789659671708001
+    second: sloppymess_236
+  - first:
+      213: -4669036718650891477
+    second: sloppymess_237
+  - first:
+      213: 3319679738464349647
+    second: sloppymess_238
+  - first:
+      213: 9199483998705636373
+    second: sloppymess_239
+  - first:
+      213: 8197449925444841607
+    second: sloppymess_240
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sloppymess_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d779824ff3de070800000000000000
+      internalID: 8137230419613941074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230a0b8ba47970540800000000000000
+      internalID: 4974110660635959346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cf7c76700a49b90800000000000000
+      internalID: -7235982747611169759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e23d1b4df2e121f0800000000000000
+      internalID: -1071325658822659358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4aebe61629e5a250800000000000000
+      internalID: 5955422432069937740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffd0dca2edf91720800000000000000
+      internalID: 2817562191900762107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0584bb06e3ae58c0800000000000000
+      internalID: -4008586409878977265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ff9b199f9003390800000000000000
+      internalID: -7840755983755641017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb1fb704565d4b20800000000000000
+      internalID: 3120245035744828404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a45af10a2164510800000000000000
+      internalID: 1532933202101226130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbc6a19d02b3a230800000000000000
+      internalID: 3648955894448180220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dfab1c8ae11e9c0800000000000000
+      internalID: -3899802092172542574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69fde74639fd0ec0800000000000000
+      internalID: -3598946515668829843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02d6e773fdca1610800000000000000
+      internalID: 1592811863801254412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b15e714d29aec560800000000000000
+      internalID: 7335986854870536626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43bf2fb94cd11630800000000000000
+      internalID: 3896137361950487371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac73ed9606c6f870800000000000000
+      internalID: 8716371860543208621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b2c5b0ea3049160800000000000000
+      internalID: 7031248964281969503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd113e1e069556c0800000000000000
+      internalID: -4155250093799170595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e65575a149b2020800000000000000
+      internalID: 2318109274067529362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f970b33dbf47970800000000000000
+      internalID: 8751896860534742900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4514fa595ed1942f0800000000000000
+      internalID: -988225771335106220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d85dcc9d12e23b0800000000000000
+      internalID: -5535449672663593581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8167aedbf65e8f30800000000000000
+      internalID: 4579693510854664589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdfd9598f645d630800000000000000
+      internalID: 3951142281563471347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f612af891f0bb00800000000000000
+      internalID: 842438769652101007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf2ce9b7a8f15430800000000000000
+      internalID: 3770067762348306370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dbbc7ce631aa8b0800000000000000
+      internalID: -5140274658170651347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad9506fdedeedec0800000000000000
+      internalID: -3540130650776035936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876ce336084c1bf80800000000000000
+      internalID: -8092470999708154248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece69fb48e18a9e80800000000000000
+      internalID: -8171075739203309874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1218e440bba54880800000000000000
+      internalID: -8627300737599663589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150052f86034650a0800000000000000
+      internalID: -6893248484193533871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcd4e393ead47310800000000000000
+      internalID: 1401986054992747765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed88a83169601120800000000000000
+      internalID: 2382520069162307044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebdffb66da30b560800000000000000
+      internalID: 7327421286341139438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efad95d676017b700800000000000000
+      internalID: 555931115405826814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab728a11187942f80800000000000000
+      internalID: -8132208446521464902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae7e9a175e117c60800000000000000
+      internalID: 7814060187922103981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b878179c34369b730800000000000000
+      internalID: 4015349685571127179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1105ed350f73ba140800000000000000
+      internalID: 4731937338821595153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94253a4df1e539b80800000000000000
+      internalID: -8389258190056631735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dee46080a0faa730800000000000000
+      internalID: 4011282990266379989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528fb28173b697c40800000000000000
+      internalID: 5510553503437420581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1088544b7427d850800000000000000
+      internalID: 6401625507176677404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7ead7eb5e11c440800000000000000
+      internalID: 4954274445164996541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df680e1bc736420e0800000000000000
+      internalID: -2295600522840733955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb93865016627120800000000000000
+      internalID: 2410100970953612278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abad7e7316f25a090800000000000000
+      internalID: -8023955066494395718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4db17aed904f3c40800000000000000
+      internalID: 5494181117402660172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c70b8f584f2fb90800000000000000
+      internalID: -7209431197226599288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6228048f0a88c00800000000000000
+      internalID: 903148713382389465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444367710f078bbf0800000000000000
+      internalID: -308372397986794428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe097e87c4e97030800000000000000
+      internalID: 3493074531742453491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ad9c85a7ad40c50800000000000000
+      internalID: 6630664770406701685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e2a58ad732089a0800000000000000
+      internalID: -6232942861678399902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313bf40063fd79ba0800000000000000
+      internalID: -6082147348714114285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ff07d3446eaece0800000000000000
+      internalID: -1375033555445285108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd0782859cd16550800000000000000
+      internalID: 6152441100662934991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1017d92e2fbe59af0800000000000000
+      internalID: -390146364281097983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_60
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d54adc20e94270b0800000000000000
+      internalID: -5732438148515215915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5f76e5b28b621f0800000000000000
+      internalID: -1069965365046938138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddc23887869d9f90800000000000000
+      internalID: -6945229541485654565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c595eb41b5eca20800000000000000
+      internalID: 3084502939446369374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb704857bb4e3960800000000000000
+      internalID: 7583582073370213356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef2264ed0bd37060800000000000000
+      internalID: 6950139502675505120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cd3e096645713a0800000000000000
+      internalID: -6694789521568703423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e35da0c877c25dc0800000000000000
+      internalID: -3651637026401463322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sloppymess_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3228620a7322b0c0800000000000000
+      internalID: -4561544465639529923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
